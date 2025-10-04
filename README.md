@@ -1,4 +1,4 @@
-<h1 align="center">PyTaskManager</h1>
+<h1 align="center">PySQLedule</h1>
 
 <p align="center">
   <a href="LICENSE">
@@ -14,7 +14,7 @@
   About the Project
 </h2>
 
-**PyTaskManager** is a command-line application that provides a straightforward way to manage tasks directly from the terminal. Built as a portfolio project, it highlights a practical implementation of **Python** and **SQL** for database interaction.
+**PySQLedule** is a command-line application that provides a straightforward way to manage tasks directly from the terminal. Built as a portfolio project, it highlights a practical implementation of **Python** and **SQL** for database interaction.
 
 The application demonstrates a solid **CRUD** (Create, Read, Update, Delete) system with a focus on good software architecture. The project is structured using **Object-Oriented Programming (OOP)**, separating the user interface from the business logic and database interactions, making the codebase clean, modular, and easy to maintain.
 
@@ -47,11 +47,11 @@ Make sure you have Python installed on your machine.
 1. *Clone the repository to your local machine:*
 
 ```bash
-git clone https://github.com/yovisck-c/PyTaskManager.git
+git clone https://github.com/yovisck-c/PySQLedule.git
 ```
 2. *Navigate to the project directory:*
 ```bash 
-cd PyTaskManager
+cd PySQLedule
 ```
 3. *Run the main script:*
 ```bash
