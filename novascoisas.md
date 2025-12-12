@@ -1,0 +1,1 @@
+Opção de "sorting" para listar as tarefas ou por prioridade, ou por data mais proxima, etc.
